@@ -20,4 +20,6 @@ A file for notepad++ for running the java source code files from notepad++
     After it tick the following keys CTRL, SHIFT & ENTER 
     Give it a name and save it.
 
-4. Now you can open a Java Source file and press Ctrl+Shift+Enter to compile and run the Java File
+4. Now we need to create a folder, to put the file you just downloaded into it. Create a folder at a safe location in any if your drive, and the move the file run_java.bat inside it.
+5. Now we need to add it to the `SYSTEM ENVIRONMENT VARIABLES`, so to do this right click on **My Computer in Windows 7 or This PC in Windows 10**, Goto -> Properties -> Advance Options -> Environmnet Variable. Inside path click **NEW** now copy the path of the folder that you made in which you moved the runcpp.bat file & paste it here in new path and save it.
+6. Now you can open a Java Source file and press Ctrl+Shift+Enter to compile and run the Java File
