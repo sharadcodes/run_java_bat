@@ -19,6 +19,7 @@ ECHO.
 
 if exist "%~dp1%~n1.class" (
 cd %~dp1
+%~d1
 java %~n1
 REM del "%~dp1%~n1.class"
 )
